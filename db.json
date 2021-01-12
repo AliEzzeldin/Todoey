@@ -1,11 +1,36 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "iphone",
+      "price": "500"
+    },
+    {
+      "id": 2,
+      "name": "lg",
+      "price": "400"
+    },
+    {
+      "id": 3,
+      "name": "google",
+      "price": "550"
+    },
+    {
+      "id": 4,
+      "name": "samsung",
+      "price": "700"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "orders": [
+    ],
+  "users": [
+    {
+      "id": 1,
+      "name": "ali",
+      "email": "aliiid@ggk.vob",
+      "phone": "457632957",
+      "country": "ali"
+    }
+    ],
+  
 }
